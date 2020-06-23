@@ -13,4 +13,4 @@ spec:
     image:
       repository: dstrebel/azurevote
       tag: v1
-    replicaCount: 10
+    replicaCount: 1
