@@ -5,4 +5,4 @@ value2: Batman
 
 # Service controlls
 serviceNameFront: azure-vote-front
-serviceType: ClusterIP
+serviceType: LoadBalancer
